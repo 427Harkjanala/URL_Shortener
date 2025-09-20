@@ -1,0 +1,13 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "main": "url.js",
+  "scripts": {
+    "dev": "node --watch url.js",
+    "start": "node url.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
